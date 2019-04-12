@@ -3,7 +3,12 @@
 
 ## Introduction
 
-In this lesson, we'll learn about the topics and concepts that will be covered in this section. 
+In this lesson, we'll learn about the topics and concepts that will be covered in this section.
+
+## Objectives
+You will be able to:
+* Give a brief summary of what is to be covered in this section
+* Understand and explain why the section will help you to become a data scientist
 
 
 ## Introducing NoSQL Databases
